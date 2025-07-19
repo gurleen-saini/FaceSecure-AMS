@@ -1,21 +1,29 @@
+# Node.js
 client/node_modules/
+client/build/
+client/dist/
+client/.env
 
-venv_multimodal/
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
-
-server/__pycache__/
+# FastAPI SQLite DB
 server/attendance.db
 
-server/dlib_face_recognition_resnet_model_v1.dat
-server/shape_predictor_68_face_landmarks.dat
-
+# VSCode & OS files
 .vscode/
-
 .DS_Store
+Thumbs.db
+
+# Logs & Environment
 *.log
 .env
 
-Thumbs.db
-
-
-
+# Byte-compiled files
+*.swp
+*.bak
+*~
