@@ -4,7 +4,7 @@
 **FaceGuard: A Real-Time Blink-Verified Attendance System Supporting Masked Face Recognition**  
 An AI-powered attendance management system that supports masked faces and uses blink detection to prevent spoofing.
 
-## 📌 Short Description / Purpose  
+## 📌 Short Description
 This project enables secure and accurate face recognition for attendance in educational institutions, even when users are wearing masks. It incorporates blink detection for liveness verification and uses facial embeddings (full and upper-face) to ensure reliability.
 
 ## 🧰 Tech Stack  
